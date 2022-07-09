@@ -1,0 +1,23 @@
+{
+  "name": "popular-user-agents",
+  "version": "0.22.7",
+  "description": "Regularly updated list of popular user agents aka browser versions",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulmillr/popular-user-agents.git"
+  },
+  "keywords": ["user agent", "useagent", "browser", "version", "versions", "popular", "top"],
+  "author": "Paul Miller (https://paulmillr.com)",
+  "license": "MIT",
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/paulmillr/popular-user-agents/issues"
+  },
+  "homepage": "https://github.com/paulmillr/popular-user-agents#readme"
+}
