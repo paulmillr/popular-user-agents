@@ -2,7 +2,7 @@
 
 Regularly updated list of popular user agents aka browser versions.
 
-Package version itself corresponds to update date e.g. 0.1.2207 = 2022.07.
+Package version itself corresponds to update date: 0.1.2207 = 2022.07.
 
 ## Usage
 
