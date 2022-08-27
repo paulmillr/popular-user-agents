@@ -1,6 +1,6 @@
 {
   "name": "popular-user-agents",
-  "version": "0.1.2207",
+  "version": "0.1.2208",
   "description": "Regularly updated list of popular user agents aka browser versions",
   "type": "module",
   "main": "index.js",
@@ -8,7 +8,7 @@
   "types": "./index.d.ts",
   "devDependencies": {},
   "scripts": {
-    "test": "node test.js"
+    "test": "node test.js | sort | uniq -c"
   },
   "repository": {
     "type": "git",
