@@ -1,4 +1,4 @@
-const updatedAt = new Date('2022-08-28 00:00:00');
+const updatedAt = new Date('2023-03-16 00:00:00');
 const maxAcceptableAge = 1000 * 60 * 60 * 24 * 120; // 120 days
 export { updatedAt };
 // Make sure to update all locations.
