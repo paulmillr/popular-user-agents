@@ -1,6 +1,6 @@
 {
   "name": "popular-user-agents",
-  "version": "0.1.2208",
+  "version": "0.1.2303",
   "description": "Regularly updated list of popular user agents aka browser versions",
   "type": "module",
   "main": "index.js",
